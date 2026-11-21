@@ -3,7 +3,7 @@
 
 Design, cost, building rules, site plan and tenders for a building project in India, in one web app.
 
-**Live site:** `https://f20260404-pixel.github.io/buildsmart/` (replace with your GitHub username after turning on GitHub Pages)
+**Live site:** `https://f20260404-pixel.github.io/buildsmart/` 
 
 ## The problem
 
